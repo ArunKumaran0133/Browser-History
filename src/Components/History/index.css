@@ -1,0 +1,51 @@
+.time {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.title {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: black;
+  margin-right: 10px;
+}
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.domain {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-right: 10px;
+}
+
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.title-logo-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.delete-container {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
